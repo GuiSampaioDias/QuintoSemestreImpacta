@@ -7,3 +7,11 @@ descritiva
 predistiva 
 diagnostica 
 prescritiva
+
+Experimento aleatorio 
+    jogar um dado equilibrado
+
+Espaço amostral
+É um conjunto formado pelos elementos 1, 2, 3, 4, 5, 6
+
+
